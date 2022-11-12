@@ -6,7 +6,6 @@
   list-style-type: none;
   text-decoration: none;
   box-sizing: border-box;
-  font-size: 62.5%;
 }
 
 :root {
@@ -19,8 +18,6 @@ body {
   font-style: normal;
   font-size: 1.2em;
   color: var(--primary);
-  height: 100vh;
-  width: 100%;
 }
 
 #menu-container {
@@ -29,9 +26,8 @@ body {
 }
 
 #menu {
-  display:none;
+  display: none;
 }
 
 .hamburger {
-  
 }
