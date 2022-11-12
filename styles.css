@@ -81,3 +81,16 @@ body {
   font-weight: 400;
   margin-top: 1rem;
 }
+
+/***  PROJECTS ***/
+.article-container {
+  margin: 0 auto;
+}
+
+.article-container img {
+  width: 100%;
+}
+
+.article-content {
+  background-color: var(--primary);
+}
